@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="28px" viewBox="0 0 26 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 20</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-20">
+            <g id="Group-13" transform="translate(0.573222, 0.778243)">
+                <path d="M0.368200837,10.7949791 L24.5271967,10.7949791 C24.7305484,10.7949791 24.8953975,10.9598282 24.8953975,11.1631799 L24.8953975,22.8535565 C24.8953975,23.0569082 24.7305484,23.2217573 24.5271967,23.2217573 L0.368200837,23.2217573 C0.16484913,23.2217573 -4.74696959e-16,23.0569082 0,22.8535565 L0,11.1631799 C-2.49034017e-17,10.9598282 0.16484913,10.7949791 0.368200837,10.7949791 Z" id="Rectangle" fill="#FFFFFF"></path>
+                <polygon id="Rectangle" stroke="#FFFFFF" stroke-width="1.28870293" fill="#FFFFFF" stroke-linejoin="round" points="2.76150628 8.2350009e-15 17.9925263 8.2350009e-15 22.1338912 4.14098722 22.1338912 26.4016736 2.76150628 26.4016736"></polygon>
+                <rect id="Rectangle" fill="#1F5865" x="0.753138075" y="11.5481172" width="23.3891213" height="10.9205021" rx="0.334728033"></rect>
+                <rect id="Rectangle" fill="#1F5865" x="6.94560669" y="4.47698745" width="7.78242678" height="1.0041841"></rect>
+                <rect id="Rectangle-Copy-13" fill="#1F5865" x="6.94560669" y="6.77824268" width="11.0878661" height="1.0041841"></rect>
+                <rect id="Rectangle-Copy-16" fill="#1F5865" x="6.94560669" y="9.07949791" width="11.0878661" height="1.0041841"></rect>
+                <polygon id="Rectangle" stroke="#1F5865" stroke-width="1.17154812" stroke-linejoin="round" points="3.64016736 0.836820084 17.4895397 0.836820084 21.2552301 4.60251046 21.2552301 25.6066946 3.64016736 25.6066946"></polygon>
+                <path d="M17.0711297,0.836820084 L21.2552301,4.89539749 L19.4979079,4.89539749 C18.1576353,4.89539749 17.0711297,3.80889186 17.0711297,2.46861925 L17.0711297,0.836820084 L17.0711297,0.836820084 Z" id="Path-9" fill="#1F5865"></path>
+                <text id="CSV" font-family="NotoSansTC-Black, Noto Sans TC Black" font-size="6.69456067" font-weight="700" letter-spacing="0.577405861" fill="#FFFFFF">
+                    <tspan x="5.18828452" y="20.0502092">CSV</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
