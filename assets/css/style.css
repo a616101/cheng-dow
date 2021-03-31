@@ -2484,7 +2484,8 @@ p {
   color: #ffffff;
 }
 
-#topnav .has-submenu.active .submenu li.active>a {
+#topnav .has-submenu.active .submenu li.active>a,
+#topnav .has-submenu.active .submenu li>a.active{
   color: #0175c5 !important;
 }
 
@@ -2605,7 +2606,9 @@ p {
 }
 
 #topnav .navigation-menu>li:hover>a,
-#topnav .navigation-menu>li.active>a {
+#topnav .navigation-menu>li.active>a,
+#topnav .navigation-menu>li>a.active
+{
   color: #0175c5 !important;
 }
 
